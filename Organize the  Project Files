@@ -1,0 +1,11 @@
+my_project/
+│
+├── data/
+│   ├── sample_data.csv  # Placeholder for your actual data file
+│
+├── src/
+│   ├── analysis.py       # Your Python script
+│
+├── README.md             # Project description
+├── .gitignore            # Specify files/folders to ignore
+└── requirements.txt      # List of dependencies
